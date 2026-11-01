@@ -1,0 +1,4 @@
+project_id = "africa-sport-edition"
+
+[functions.ase-admin-user]
+verify_jwt = true
